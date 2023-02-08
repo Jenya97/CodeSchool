@@ -1,34 +1,6 @@
 import data from './data.json'  assert { type: "json" };
 
-// class Human{
-// 	constructor(name,age,weight,hair,eyes,brain){
-//      this.name=name;
-// 	 this.age=age;
-// 	 this.weight=weight;
-// 	 this.hair=hair;
-// 	 this.eyes=eyes;
-// 	 this.brain=brain
-// 	}
-//    rander(){
-// 		// let div=document.createElement('div');
-//         console.log(this.name);
-// 	}
-// }
-// class Woman extends Human{
-//     constructor(name,age,weight,hair,eyes,brain,bnazd){
-// 		super(name,age,weight,hair,eyes,brain);
-// 		this.bnazd=bnazd;
-// 	}
-// }
-// const armen=new Human('armen',12,40,'black','green',true);
-// const armen2=new Human('armen2',122,402,'black2','green2',true);
-// const armine=new Woman('armine',20,60,'pinksilver','silver',true,true);
-// // console.dir(armen);
-// // console.dir(armen2);
-// // console.dir(armine);
-// // const arr=[armen,armen2,armine];
-// // console.log(arr);
-// armen.rander()
+
 
 const arrBuy=JSON.parse(localStorage.getItem('basket')) || [];
 const parent_kinder=document.querySelector('.parent_kinder')
