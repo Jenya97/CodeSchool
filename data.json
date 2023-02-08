@@ -1,0 +1,38 @@
+[
+{
+    "id":1,
+    "name":"kinder 1",
+    "price":520,
+    "description":"kinder for one",
+    "img":"https://www.sas.am/upload/Sh/imageCache/370/099/0990183101027111.jpg"
+},
+{
+    "id":2,
+    "name":"kinder 2",
+    "price":620,
+    "description":"kinder for two",
+    "img":"https://media.yerevan-city.am/api/Image/Resize/ProductPhoto/1042644.png/500/500/false"
+},
+{
+    "id":3,
+    "name":"kinder 3",
+    "price":720,
+    "description":"kinder for three",
+    "img":"https://m.media-amazon.com/images/I/61W1Bl5lJzL._SL1500_.jpg"
+},
+{
+    "id":4,
+    "name":"kinder 4",
+    "price":820,
+    "description":"kinder for four",
+    "img":"https://www.alphamega.com.cy/Admin/Public/GetImage.ashx?Width=800&Height=800&Crop=5&DoNotUpscale=True&FillCanvas=True&Image=/Files/Images/Ecom/Products/849087.jpg&AlternativeImage=/Images/missing_image.jpg"
+},
+{
+    "id":5,
+    "name":"kinder 5",
+    "price":3600,
+    "description":"kinder for five",
+    "img":"https://mmshop.am/wa-data/public/shop/products/59/05/559/images/3310/3310.970.jpg"
+}
+]
+
